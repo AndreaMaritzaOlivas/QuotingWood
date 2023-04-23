@@ -15,7 +15,7 @@
 ; con un punto y coma (;) son ignoradas
 
 ; URL base del proyecto, algo como https://sitio.com
-BASE_URL = "http://olivasandrea.utdgrupoti.com/cotizaciones/"
+BASE_URL = "https://quotingwood-production.up.railway.app/"
 
 <!--USUARIO_MYSQL = "root"
 PASS_MYSQL = ""
